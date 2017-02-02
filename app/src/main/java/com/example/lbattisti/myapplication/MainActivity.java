@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         WebView myWebView = (WebView) findViewById(R.id.webview);
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        myWebView.loadUrl("https://almsaeedstudio.com/themes/AdminLTE/index2.html");
+        myWebView.loadUrl("http://codifiquei.com.br/react/");
     }
 }
